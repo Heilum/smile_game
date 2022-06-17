@@ -7,6 +7,6 @@ A flutter demo project illustrate google_ml_kit and flame_forge2d
 2. Using 'face-detect' of google_ml_kit to parse images from the camera and detect smiles in all orientations;
 3. Using 'flame_forge2d' to setup a physical world, when you smile, your hero jump.
 
-https://raw.github.com/Heilum/smile_game/master/s1s.mp4
+[![Watch the video](https://img.youtube.com/vi/ZRxWclDiE_E/maxresdefault.jpg)](https://youtu.be/ZRxWclDiE_E)
 
-https://raw.github.com/Heilum/smile_game/master/s1s.mp4
+[![Watch the video](https://img.youtube.com/vi/6tYyhNHgnd4/maxresdefault.jpg)](https://youtu.be/6tYyhNHgnd4)
