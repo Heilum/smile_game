@@ -9,4 +9,4 @@ A flutter demo project illustrate google_ml_kit and flame_forge2d
 
 [![Watch the video](https://img.youtube.com/vi/ZRxWclDiE_E/maxresdefault.jpg)](https://youtu.be/ZRxWclDiE_E)
 
-[![Watch the video](https://img.youtube.com/vi/6tYyhNHgnd4/maxresdefault.jpg)](https://youtu.be/6tYyhNHgnd4)
+[![Watch the video](https://img.youtube.com/vi/6tYyhNHgnd4/hqdefault.jpg)](https://youtu.be/6tYyhNHgnd4)
