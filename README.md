@@ -1,16 +1,9 @@
 # smile_game
 
-A new Flutter project.
+A flutter demo project illustrate google_ml_kit and flame_forge2d
 
-## Getting Started
+## Features
+1.Using 'camera' package to display realtime content of device's front camera, supporting landscape and portrait orientations;
+2.Using 'face-detect' of google_ml_kit to parse images from the camera and detect smiles, even in all orientations;
+3.Use 'flame_forge2d' to setup a physical world.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
