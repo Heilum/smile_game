@@ -10,4 +10,4 @@ A flutter demo project illustrate google_ml_kit and flame_forge2d
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
-<video src="https://github.com/Heilum/smile_game/s2s.mp4" controls="" width="500" height="300"></video>
+<video src="https://raw.github.com/Heilum/smile_game/master/s2s.mp4" controls="" width="500" height="300"></video>
